@@ -12,8 +12,9 @@
   <li>I love something new in different areas</li>
 </ul>
 <h2>My contacts</h2>
-Work email: I_Seme4ka_I9@proton.me
+<b>Work email: I_Seme4ka_I9@proton.me</b>
 
+<h2></h2>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&duration=15000&pause=1000&color=1FF753&center=true&width=435&lines=I+see+you+my+friend" alt="Typing SVG" />
 </a>
