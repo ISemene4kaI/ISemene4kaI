@@ -4,5 +4,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ISemene4kaI&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>Something about me</h2>
-<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="My all stats">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]" alt="My all stats">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Workbench&duration=15000&pause=1000&color=1FF753&center=true&width=435&lines=I+see+you+my+friend" alt="Typing SVG" /></a>
