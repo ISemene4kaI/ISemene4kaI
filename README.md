@@ -14,7 +14,7 @@
 <h2>My contacts</h2>
 <b>Work email: I_Seme4ka_I9@proton.me</b>
 
-<h2></h2>
+<h4></h4>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&duration=15000&pause=1000&color=1FF753&center=true&width=435&lines=I+see+you+my+friend" alt="Typing SVG" />
 </a>
