@@ -2,7 +2,7 @@
 
 <h2>Github Trophies</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar" alt="My all stats">
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=ISemene4kaI&theme=onestar" alt="My all stats">
 </a>
 
 <h2>Something about me</h2>
