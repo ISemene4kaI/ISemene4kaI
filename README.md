@@ -40,6 +40,12 @@ Telegram бот который должен был
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
 
 </td>
+</tr>
+</table>
+
+
+<table width="100%">
+<tr>
 
 <td width="50%" valign="center">
 
